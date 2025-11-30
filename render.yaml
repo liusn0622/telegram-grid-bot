@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: telegram-grid-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: 服务
+类型:
+      - 网络: BOT_TOKEN
+名字: 7638289671:AAHJDHEgQOhAdAnfmZs9IN4zY8EB6LykGDI
+      - 环境: CHANNEL_USERNAME
+蟒蛇: "@liulangsuo"
+      - 构建命令: CHANNEL_ID
+pip install -r requirements.txt: "-1002965920151"
